@@ -92,31 +92,43 @@ Apply to careers@getbelong.app with your resume, portfolio, and references to fr
 
 ### $${\color{green}🚀 \space Backend \space Developer \space (Node.js/TypeScript)}$$
 
-(Note: Assuming "Backend React Developer" refers to our backend stack, which uses TypeScript/Node.js with Fastify—let me know if this needs adjustment!)  
+### About the Role
 
-We're looking for a Backend Developer to scale our robust API that powers Belong's core features, from fan data aggregation to secure financial transactions.
+We are looking for a **Backend Developer** to join our core engineering team in **Stockholm, Sweden/Hybrid**. You will be a key member of a team dedicated to building the financial infrastructure for fandom, creating financial and user engaging systems that connect artists with fans. You will work in a modular, AI-driven environment where **security, compliance, quality, speed, and ownership** are the guiding principles. 
+
 
 **Responsibilities**  
-- Develop and maintain scalable REST APIs using TypeScript, Fastify, and TypeORM on AWS (Kubernetes, Lambda, Postgres).  
-- Integrate with third-party services like Synctera (for banking/KYC), Plaid, and music APIs (Spotify/Google).  
-- Ensure bank-grade security, including encryption, MFA, and DDoS protection via Cloudflare.  
-- Optimize database queries, handle high-traffic loads, and implement microservices.  
-- Collaborate with frontend and product teams to deliver end-to-end features.  
+- Research, Plan and Develop and services using TypeScript/Node.jsBuild and scale high-concurrency social and financial features to support real-time user engagement.
+- Maintain and expand critical financial integrations, ensuring absolute ledger integrity and secure transaction management.
+- Execute technical roadmaps for social data integrations to fuel fan-scoring and identity features.
+- Use AI code agents and multiple LLMs to 10x your performance while maintaining full responsibility for security and performance.
+- Adhere to strict security and compliance standards and best practises
 
 **Requirements**  
-- 3+ years of backend development with Node.js/TypeScript.  
-- Experience with relational databases (e.g., Postgres), ORMs, and cloud infrastructure (AWS preferred).  
-- Strong knowledge of API design, authentication (JWT/OAuth), and testing (e.g., Jest).  
-- Familiarity with containerization (Docker/Kubernetes) and serverless architectures.  
-- High ownership in a fast-paced startup, with a focus on secure, performant code.  
+- 3+ years of backend development with Node.js/TypeScript.                                                     
+- Experience with relational databases (e.g., PostgreSQL), ORMs, and cloud infrastructure.
+- Strong knowledge of API design, authentication (JWT/OAuth), and testing frameworks.                          
+- Familiarity with containerization and orchestration (Docker/Kubernetes) and serverless patterns.             
+- High ownership in a fast-paced startup, with a focus on secure, performant code.
+- Commitment to the "Definition of Done": code that is thoroughly tested (Unit, Integration, E2E) and monitored in production.
+- Experience working in a strictly regulated environment (fintech, payments, or banking, or similar).
+- Work and collaborate with international partners on integrations and feature development.
+- Innovate and develop tools and processes to enhance team productivity.
 
 **Nice-to-Haves**  
-- Experience in fintech, compliance (KYC/AML), or high-security apps.  
-- Knowledge of event-driven systems or real-time features (e.g., WebSockets).  
-- Contributions to open-source or a portfolio of backend projects.  
+- Experience with core banking functions or complex ledger/transaction implementations.
+- Experience with AWS infrastructure, k8s, IaC andCI/CD.
+- Experience on automated monitoring and structured logging practices.
+- Working experience within high performant/scalable systems
+- Contributions to the Open Source Community.
+- Experience on core banking, transaction management, reconciliation methods, KYC/AML and similar.
 
 **What We Offer**  
-Fully remote, meaningful impact, and direct influence on Belong's architecture as we grow.
+- Work location:Stockholm/Hybrid.
+- Competitive Compensation: Market salary + competitive equity package.
+- Impactful Work: A rare chance to redefine fandom and fintech for the US market
+- Dream Team: Join a passionate, top-tier, music-loving team building something extraordinary.
+- Key Role: Your work will directly shape the financial infrastructure that connects artists with their fans.
 
 Apply to careers@getbelong.app with your resume, GitHub, and references to backend tasks in this repo.
 
