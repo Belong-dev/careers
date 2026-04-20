@@ -116,8 +116,7 @@ We are looking for a **Backend Developer** to join our core engineering team in 
 - Innovate and develop tools and processes to enhance team productivity.
 
 **Nice-to-Haves**  
-- Experience with core banking functions or complex ledger/transaction implementations.
-- Experience with AWS infrastructure, k8s, IaC andCI/CD.
+- Experience with AWS infrastructure, k8s, IaC and CI/CD.
 - Experience on automated monitoring and structured logging practices.
 - Working experience within high performant/scalable systems
 - Contributions to the Open Source Community.
@@ -125,7 +124,7 @@ We are looking for a **Backend Developer** to join our core engineering team in 
 
 **What We Offer**  
 - Work location:Stockholm/Hybrid.
-- Competitive Compensation: Market salary + competitive equity package.
+- Compensation: Market salary + equity package.
 - Impactful Work: A rare chance to redefine fandom and fintech for the US market
 - Dream Team: Join a passionate, top-tier, music-loving team building something extraordinary.
 - Key Role: Your work will directly shape the financial infrastructure that connects artists with their fans.
